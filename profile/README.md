@@ -20,8 +20,6 @@ Building the debugging layer for modern software.
 
 </p>
 
----
-
 ## 🧠 Mission
 
 Debugging is one of the most expensive and time-consuming parts of software development.
@@ -32,7 +30,6 @@ Our mission is simple:
 
 ade-engine builds autonomous systems that identify, analyze, and fix software issues.
 
----
 
 ## 🚀 Product
 
@@ -44,7 +41,6 @@ Repository:
 
 **https://github.com/ade-engine/ade**
 
----
 
 ## ⚡ Core Capabilities
 
@@ -58,7 +54,6 @@ Repository:
 | 🧠 Semantic Understanding | Uses structural code analysis |
 | ⚡ Fast | Designed for real-time debugging |
 
----
 
 ## 🏗 Infrastructure-Level Approach
 
@@ -70,7 +65,6 @@ It is not code generation.
 
 ADE operates as infrastructure.
 
----
 
 ## 📊 Comparison
 
@@ -83,7 +77,6 @@ ADE operates as infrastructure.
 | Privacy-safe | ✅ | ✅ | ❌ |
 | Scalable | ✅ | ❌ | ⚠️ |
 
----
 
 ## 🧩 Open-Core
 
@@ -98,14 +91,12 @@ Enterprise capabilities will include:
 - Autonomous patch deployment
 - Enterprise security controls
 
----
 
 ## 🧭 Status
 
 🧪 Early development  
 🚀 Launching soon  
 
----
 
 ## 🏛 Principles
 
@@ -114,7 +105,6 @@ Enterprise capabilities will include:
 - Infrastructure-level
 - Open ecosystem
 
----
 
 ## 🤝 Join
 
@@ -124,7 +114,6 @@ You can support the project by:
 - Following development
 - Contributing
 
----
 
 ## 📦 Organization Repositories
 
@@ -132,13 +121,11 @@ You can support the project by:
 |---|---|
 | ade | Autonomous Debugging Engineer core |
 
----
 
 ## 🌐 Website
 
 Coming soon
 
----
 
 <p align="center">
 Building the future of debugging.
