@@ -1,4 +1,4 @@
-<h1 align="center">ade-engine</h1>
+<h1 align="center"> ADE (Autonomous Debugging Engineer) </h1>
 
 <h3 align="center">Autonomous Debugging Infrastructure</h3>
 
